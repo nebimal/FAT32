@@ -75,7 +75,7 @@ This project implements a custom shell utility to interact with a FAT32 file sys
 
 1. Compile the program:  
    ```bash
-   gcc -o mfs mfs.c
+     make
 2. Run the program:
    ```bash
     ./mfs
